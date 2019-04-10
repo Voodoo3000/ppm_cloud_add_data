@@ -1,6 +1,6 @@
 
 
-JAVA_HOME=/usr/java/jdk1.8.0_31
+JAVA_HOME=/tmp/jdk1.8.0_131
 
 # Below this line we should not hard code any instance specific settings ...
 # So we only have to check/change the first x lines for a new environment.
